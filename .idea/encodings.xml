@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../fastdfs-client-java-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javabean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/list-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/list-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisgenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/passport-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-utils" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

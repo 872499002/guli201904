@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cart-service" />
+        <module name="cart-web" />
+        <module name="common-util" />
+        <module name="fastdfs-client-java" />
+        <module name="interface" />
+        <module name="item-web" />
+        <module name="javabean" />
+        <module name="list-service" />
+        <module name="list-web" />
+        <module name="manager-service" />
+        <module name="manager-web" />
+        <module name="mybatisgenerator" />
+        <module name="order-service" />
+        <module name="order-web" />
+        <module name="passport-web" />
+        <module name="service-utils" />
+        <module name="user-service" />
+        <module name="user-web" />
+        <module name="web-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java (1)" target="1.6" />
+      <module name="maven-archiver" target="1.8" />
+      <module name="test" target="1.8" />
+      <module name="webutils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

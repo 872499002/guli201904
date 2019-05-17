@@ -95,7 +95,7 @@ public class ListServiceApplicationTests {
 
     @Test
     public void deleteEs(){
-        Delete build = new Delete.Builder("64").index("guli2019").type("SkuLsInfo").build();
+        Delete build = new Delete.Builder("55").index("neusoft0328").type("SkuLsInfo").build();
         try {
             jestClient.execute(build);
         } catch (IOException e) {

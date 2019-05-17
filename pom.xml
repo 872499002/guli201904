@@ -21,6 +21,7 @@
         <module>user-web</module>
         <module>manager-service</module>
         <module>manager-web</module>
+        <module>test</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
